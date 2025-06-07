@@ -1,0 +1,8 @@
+# CoppeliaSim
+*.log
+*.so
+
+# ROS2
+build/
+install/
+log/
